@@ -1,0 +1,66 @@
+.reservationTable th {
+    border: 2px solid rgba(224, 224, 224, 1);
+}
+
+/* .confirm-DatePicker {
+    width: 160px;
+} */
+
+.simpleConfirmTable th {
+    border: 1px solid #999;
+}
+
+.vertical_horizon_center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.storeTherapistName {
+    width: 400px !important;
+}
+
+.timePiece {
+    width: 16.6666%;
+    height: 50px;
+}
+
+.absent_cell {
+    border: none;
+    background-color: grey;
+    opacity: 0.5;
+}
+
+.absent_cell:hover {
+    background-color: grey;
+    opacity: 0.5;
+}
+
+.shift_cell {
+    background-color: white;
+    border: 1px dotted grey;
+    transition: 0.3s;
+}
+
+.shift_cell:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.reserve_cell {
+    border: none;
+    background-color: rgb(225, 245, 235);
+    cursor: pointer;
+}
+
+.reserve_cell:hover {
+    background-color: rgb(225, 245, 235);
+}
+
+.nowTimeAxle {
+    position: absolute;
+    top: 0;
+    width: 0;
+    height: 100%;
+    border-right: 2px solid red;
+}

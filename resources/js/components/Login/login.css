@@ -1,0 +1,14 @@
+.title {
+    /* width: 30%; */
+    text-align: center;
+    border-bottom: 2px solid #EDB24B;
+    padding: 5px 25px;
+    font-size: 30px !important;
+    font-weight: 700 !important;
+    letter-spacing: 10px !important;
+    color: #EDB24B;
+    text-shadow: 4px 5px 6px #fff;
+    font-family: "Monotype Corsiva" !important;
+    line-height: 5px;
+    margin-bottom: 60px !important;
+}
